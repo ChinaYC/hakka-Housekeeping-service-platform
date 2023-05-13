@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T06:17:40.193Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="B0aPMSkqb5QYhjIbmNLY" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T01:28:00.676Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="YBlgINdkJf8tlf_ss7bp" version="21.2.9" type="github">
   <diagram name="Page-1" id="kuUTJhznfEHe3Q5honYC">
-    <mxGraphModel dx="473" dy="2044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1676" dy="2723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" value="结构图" style="" parent="0" />
@@ -332,19 +332,19 @@
         <mxCell id="2wtX0haqZMEfnTJBK97J-222" value="订单历史记录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontSize=17;arcSize=18;" parent="1" vertex="1">
           <mxGeometry x="1334" y="-310" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pmtBxswItIjkzpr3bxNe-2" value="人员数量（会员、员工、阿姨、门店加盟商）" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1aa1e2;opacity=50;" vertex="1" parent="1">
+        <mxCell id="pmtBxswItIjkzpr3bxNe-2" value="人员数量（会员、员工、阿姨、门店加盟商）" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1aa1e2;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="250" y="-140" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pmtBxswItIjkzpr3bxNe-3" value="消费数据（支付、退款、&lt;br&gt;余额、积分、提现）" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1aa1e2;opacity=50;" vertex="1" parent="1">
+        <mxCell id="pmtBxswItIjkzpr3bxNe-3" value="消费数据（支付、退款、&lt;br&gt;余额、积分、提现）" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1aa1e2;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="452" y="-140" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pmtBxswItIjkzpr3bxNe-4" value="库存数量(物品分类，金额，&lt;br&gt;对应人员情况)" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1aa1e2;opacity=50;" vertex="1" parent="1">
+        <mxCell id="pmtBxswItIjkzpr3bxNe-4" value="库存数量(物品分类，金额，&lt;br&gt;对应人员情况)" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1aa1e2;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="660" y="-140" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pmtBxswItIjkzpr3bxNe-5" value="内容数据(轮播图、&lt;br&gt;图片文案、系统设置等)" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1aa1e2;opacity=50;" vertex="1" parent="1">
+        <mxCell id="pmtBxswItIjkzpr3bxNe-5" value="内容数据(轮播图、&lt;br&gt;图片文案、系统设置等)" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1aa1e2;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="870" y="-140" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pmtBxswItIjkzpr3bxNe-6" value="人员数量（会员、员工、&lt;br&gt;阿姨、门店加盟商）" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1aa1e2;opacity=50;" vertex="1" parent="1">
+        <mxCell id="pmtBxswItIjkzpr3bxNe-6" value="人员数量（会员、员工、&lt;br&gt;阿姨、门店加盟商）" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1aa1e2;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="1078" y="-140" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
