@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T08:00:57.645Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="Kzw2D7P14Vk6wBjPYIMC" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T00:54:55.263Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="MBTIfXQ_PMF3c3SxWSlz" version="21.3.0" type="github">
   <diagram name="Page-1" id="kuUTJhznfEHe3Q5honYC">
-    <mxGraphModel dx="2394" dy="3403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1015" dy="2471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" value="结构图" style="" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="10" y="-860" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RoLfHGSgRacZs7P57VVQ-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;spacingLeft=0;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;container=0;" parent="1" vertex="1">
-          <mxGeometry x="100" y="-900" width="1530" height="1340" as="geometry" />
+          <mxGeometry x="100" y="-880" width="1530" height="1320" as="geometry" />
         </mxCell>
         <mxCell id="RoLfHGSgRacZs7P57VVQ-33" value="业主" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontSize=17;arcSize=18;" parent="1" vertex="1">
           <mxGeometry x="260" y="-780" width="110" height="50" as="geometry" />
@@ -379,6 +379,12 @@
         </mxCell>
         <mxCell id="5et0_8yqEDU4hoJO8OPt-12" value="数据字典表：记录系统中使用的各种字典，&lt;br&gt;如服务人员等级、服务类型等信息。" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1aa1e2;opacity=50;" vertex="1" parent="5et0_8yqEDU4hoJO8OPt-9">
           <mxGeometry x="585.5345911949685" width="274.84276729559747" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="5et0_8yqEDU4hoJO8OPt-16" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="2007" y="-560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5et0_8yqEDU4hoJO8OPt-17" value="登录流程图:" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="-570" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
