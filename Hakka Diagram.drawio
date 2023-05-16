@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T01:49:32.510Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="lF8Net4YfIxbJYShB-Pd" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T07:59:41.564Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="VW0dva7b49D7BoNX_tKV" version="21.3.0" type="github">
   <diagram name="Page-1" id="kuUTJhznfEHe3Q5honYC">
-    <mxGraphModel dx="645" dy="2565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1498" dy="2571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="5et0_8yqEDU4hoJO8OPt-68" value="添加信息流程图" parent="0" />
@@ -145,13 +145,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5et0_8yqEDU4hoJO8OPt-169" value="红字红框提示用户名，邮箱等唯一项已存在信息&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="5et0_8yqEDU4hoJO8OPt-149">
-          <mxGeometry x="2550.0000000000005" y="-319.9999999999998" width="120" height="60" as="geometry" />
+          <mxGeometry x="2560.0000000000005" y="-319.9999999999998" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5et0_8yqEDU4hoJO8OPt-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="5et0_8yqEDU4hoJO8OPt-149" source="5et0_8yqEDU4hoJO8OPt-173" target="5et0_8yqEDU4hoJO8OPt-154">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5et0_8yqEDU4hoJO8OPt-173" value="提示密码不一致" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="5et0_8yqEDU4hoJO8OPt-149">
-          <mxGeometry x="2969.0000000000005" y="-189.99999999999977" width="120" height="60" as="geometry" />
+          <mxGeometry x="2930.0000000000005" y="-189.99999999999977" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5et0_8yqEDU4hoJO8OPt-42" value="后台登录流程图" parent="0" />
         <mxCell id="5et0_8yqEDU4hoJO8OPt-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#647687;strokeColor=#314354;" edge="1" parent="5et0_8yqEDU4hoJO8OPt-42" source="5et0_8yqEDU4hoJO8OPt-44" target="5et0_8yqEDU4hoJO8OPt-47">
