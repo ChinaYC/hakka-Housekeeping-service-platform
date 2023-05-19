@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T03:27:45.535Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="zvamAsMyLjvxOgUZRoQd" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-19T00:49:03.064Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="_JCcPGAXieC7PwnVgUii" version="21.2.9" type="github">
   <diagram name="Page-1" id="kuUTJhznfEHe3Q5honYC">
-    <mxGraphModel dx="1966" dy="2741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2809" dy="3415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="5et0_8yqEDU4hoJO8OPt-68" value="添加信息流程图" parent="0" />
@@ -516,6 +516,79 @@
         </mxCell>
         <mxCell id="5et0_8yqEDU4hoJO8OPt-12" value="数据字典表：记录系统中使用的各种字典，&lt;br&gt;如服务人员等级、服务类型等信息。" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1aa1e2;opacity=50;" vertex="1" parent="5et0_8yqEDU4hoJO8OPt-9">
           <mxGeometry x="585.5345911949685" width="274.84276729559747" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="LqSWdEyuaL1vrC_vURyi-2" value="权限管理" parent="0" />
+        <mxCell id="LqSWdEyuaL1vrC_vURyi-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#647687;strokeColor=#314354;" edge="1" parent="LqSWdEyuaL1vrC_vURyi-2" source="LqSWdEyuaL1vrC_vURyi-4" target="LqSWdEyuaL1vrC_vURyi-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqSWdEyuaL1vrC_vURyi-4" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="LqSWdEyuaL1vrC_vURyi-2">
+          <mxGeometry x="2717.0000000000005" y="370.0000000000002" width="120" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="权限管理&lt;br&gt;" tags="后台登录流程 添加信息流程图" id="LqSWdEyuaL1vrC_vURyi-5">
+          <mxCell style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=1;" vertex="1" parent="LqSWdEyuaL1vrC_vURyi-2">
+            <mxGeometry x="2500.0000000000005" y="360.0000000000002" width="100" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="LqSWdEyuaL1vrC_vURyi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#647687;strokeColor=#314354;" edge="1" parent="LqSWdEyuaL1vrC_vURyi-2" source="LqSWdEyuaL1vrC_vURyi-7" target="LqSWdEyuaL1vrC_vURyi-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqSWdEyuaL1vrC_vURyi-7" value="填写用户信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="LqSWdEyuaL1vrC_vURyi-2">
+          <mxGeometry x="2717.0000000000005" y="470.0000000000002" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LqSWdEyuaL1vrC_vURyi-8" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#647687;strokeColor=#314354;" edge="1" parent="LqSWdEyuaL1vrC_vURyi-2" source="LqSWdEyuaL1vrC_vURyi-11" target="LqSWdEyuaL1vrC_vURyi-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqSWdEyuaL1vrC_vURyi-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="LqSWdEyuaL1vrC_vURyi-2" source="LqSWdEyuaL1vrC_vURyi-11" target="LqSWdEyuaL1vrC_vURyi-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqSWdEyuaL1vrC_vURyi-10" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="LqSWdEyuaL1vrC_vURyi-9">
+          <mxGeometry x="-0.0732" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LqSWdEyuaL1vrC_vURyi-11" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;判断用户名，邮箱手机&lt;br&gt;号等是否存在&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="LqSWdEyuaL1vrC_vURyi-2">
+          <mxGeometry x="2712.0000000000005" y="570.0000000000002" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LqSWdEyuaL1vrC_vURyi-12" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#647687;strokeColor=#314354;" edge="1" parent="LqSWdEyuaL1vrC_vURyi-2" source="LqSWdEyuaL1vrC_vURyi-15" target="LqSWdEyuaL1vrC_vURyi-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqSWdEyuaL1vrC_vURyi-13" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="LqSWdEyuaL1vrC_vURyi-2" source="LqSWdEyuaL1vrC_vURyi-15" target="LqSWdEyuaL1vrC_vURyi-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqSWdEyuaL1vrC_vURyi-14" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="LqSWdEyuaL1vrC_vURyi-13">
+          <mxGeometry x="-0.1023" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LqSWdEyuaL1vrC_vURyi-15" value="判断两次密码&lt;br&gt;是否一致" style="rhombus;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="LqSWdEyuaL1vrC_vURyi-2">
+          <mxGeometry x="2712.0000000000005" y="700.0000000000002" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LqSWdEyuaL1vrC_vURyi-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#647687;strokeColor=#314354;" edge="1" parent="LqSWdEyuaL1vrC_vURyi-2" source="LqSWdEyuaL1vrC_vURyi-17" target="LqSWdEyuaL1vrC_vURyi-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqSWdEyuaL1vrC_vURyi-17" value="DB添加用户信息" style="rhombus;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;shape=label;perimeter=rectanglePerimeter;rounded=0;" vertex="1" parent="LqSWdEyuaL1vrC_vURyi-2">
+          <mxGeometry x="2712" y="830" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LqSWdEyuaL1vrC_vURyi-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#647687;strokeColor=#314354;" edge="1" parent="LqSWdEyuaL1vrC_vURyi-2" source="LqSWdEyuaL1vrC_vURyi-19" target="LqSWdEyuaL1vrC_vURyi-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqSWdEyuaL1vrC_vURyi-19" value="注册成功提示&lt;br&gt;并自动跳转登录页" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="LqSWdEyuaL1vrC_vURyi-2">
+          <mxGeometry x="2717.0000000000005" y="940.0000000000002" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LqSWdEyuaL1vrC_vURyi-20" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="LqSWdEyuaL1vrC_vURyi-2">
+          <mxGeometry x="2717.0000000000005" y="1060.0000000000002" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LqSWdEyuaL1vrC_vURyi-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="LqSWdEyuaL1vrC_vURyi-2" source="LqSWdEyuaL1vrC_vURyi-22" target="LqSWdEyuaL1vrC_vURyi-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqSWdEyuaL1vrC_vURyi-22" value="红字红框提示用户名，邮箱等唯一项已存在信息&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="LqSWdEyuaL1vrC_vURyi-2">
+          <mxGeometry x="2530.0000000000005" y="580.0000000000002" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LqSWdEyuaL1vrC_vURyi-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="LqSWdEyuaL1vrC_vURyi-2" source="LqSWdEyuaL1vrC_vURyi-24" target="LqSWdEyuaL1vrC_vURyi-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqSWdEyuaL1vrC_vURyi-24" value="提示密码不一致" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="LqSWdEyuaL1vrC_vURyi-2">
+          <mxGeometry x="2900.0000000000005" y="710.0000000000002" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
