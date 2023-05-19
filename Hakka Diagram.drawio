@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T06:21:19.759Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="98WPMS8m-GrRkIQuJe_n" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-19T06:21:30.358Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="BoSq7zi1q0Du8x-WzJCj" version="21.3.2" type="github">
   <diagram name="Page-1" id="kuUTJhznfEHe3Q5honYC">
-    <mxGraphModel dx="969" dy="1941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1762" dy="2573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="5et0_8yqEDU4hoJO8OPt-68" value="添加信息流程图" parent="0" />
@@ -162,11 +162,6 @@
         </mxCell>
         <mxCell id="5et0_8yqEDU4hoJO8OPt-44" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="5et0_8yqEDU4hoJO8OPt-42" vertex="1">
           <mxGeometry x="2007" y="-560" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="64-Zl9fzoVTIndgylvaR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="5et0_8yqEDU4hoJO8OPt-42" source="5et0_8yqEDU4hoJO8OPt-45" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1880" y="-680" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <UserObject label="后台登录流程图:" tags="后台登录流程 添加信息流程图" id="5et0_8yqEDU4hoJO8OPt-45">
           <mxCell style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=1;" parent="5et0_8yqEDU4hoJO8OPt-42" vertex="1">
