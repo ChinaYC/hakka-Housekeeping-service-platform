@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-20T08:04:12.006Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="u6PXBcJ3lvxdwpIyCRyH" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-20T08:04:20.209Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="mbnxoN3sFtlmYETzQnSg" version="21.3.2" type="github">
   <diagram name="Page-1" id="kuUTJhznfEHe3Q5honYC">
     <mxGraphModel dx="1210" dy="1880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -491,7 +491,7 @@
           <mxGeometry x="870" y="-140" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pmtBxswItIjkzpr3bxNe-6" value="服务数据（类型，金额，&lt;br&gt;时长，关联库存表）" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1aa1e2;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="1078" y="-140" width="180" height="80" as="geometry" />
+          <mxGeometry x="1090" y="-140" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LqSWdEyuaL1vrC_vURyi-1" value="内容管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontSize=17;arcSize=18;" parent="1" vertex="1">
           <mxGeometry x="550" y="-310" width="110" height="50" as="geometry" />
