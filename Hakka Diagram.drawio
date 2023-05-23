@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T07:37:45.336Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="eTPJ3WbvtbKNfcVwyxjl" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T07:37:52.596Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="GJp54RQQokQto6jS2Tbf" version="21.3.2" type="github">
   <diagram name="Page-1" id="kuUTJhznfEHe3Q5honYC">
     <mxGraphModel dx="4033" dy="3346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -310,6 +310,9 @@
         <mxCell id="RoLfHGSgRacZs7P57VVQ-23" value="结构图:" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="-860" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="RoLfHGSgRacZs7P57VVQ-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;spacingLeft=0;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;container=0;" parent="1" vertex="1">
+          <mxGeometry x="100" y="-900" width="1530" height="1350" as="geometry" />
+        </mxCell>
         <mxCell id="RoLfHGSgRacZs7P57VVQ-33" value="业主" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontSize=17;arcSize=18;" parent="1" vertex="1">
           <mxGeometry x="260" y="-780" width="110" height="50" as="geometry" />
         </mxCell>
@@ -566,7 +569,7 @@
           <mxGeometry x="1280" y="-30" width="242" height="140" as="geometry" />
         </mxCell>
         <mxCell id="5et0_8yqEDU4hoJO8OPt-15" value="" style="group" parent="1" connectable="0" vertex="1">
-          <mxGeometry x="260" y="150" width="1520" height="320" as="geometry" />
+          <mxGeometry x="260" y="150" width="1520" height="260" as="geometry" />
         </mxCell>
         <mxCell id="5et0_8yqEDU4hoJO8OPt-9" value="" style="group" parent="5et0_8yqEDU4hoJO8OPt-15" connectable="0" vertex="1">
           <mxGeometry width="1278.616352201258" height="260" as="geometry" />
@@ -579,9 +582,6 @@
         </mxCell>
         <mxCell id="5et0_8yqEDU4hoJO8OPt-12" value="数据字典表：记录系统中使用的各种字典，&lt;br&gt;如服务人员等级、服务类型等信息。" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1aa1e2;opacity=50;" parent="5et0_8yqEDU4hoJO8OPt-9" vertex="1">
           <mxGeometry x="585.5345911949685" width="274.84276729559747" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="RoLfHGSgRacZs7P57VVQ-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;spacingLeft=0;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;container=0;" parent="5et0_8yqEDU4hoJO8OPt-15" vertex="1">
-          <mxGeometry x="-160" y="-1030" width="1530" height="1350" as="geometry" />
         </mxCell>
         <mxCell id="LqSWdEyuaL1vrC_vURyi-2" value="权限管理" parent="0" />
         <mxCell id="LqSWdEyuaL1vrC_vURyi-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#647687;strokeColor=#314354;" parent="LqSWdEyuaL1vrC_vURyi-2" source="LqSWdEyuaL1vrC_vURyi-4" target="LqSWdEyuaL1vrC_vURyi-7" edge="1">
