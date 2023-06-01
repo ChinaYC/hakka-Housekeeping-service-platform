@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T09:04:31.204Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="9AY3iGwnRIPCnEPvazFf" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-01T09:10:16.022Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="3vA9N0tbwjJWiZ7DyjW-" version="21.3.5" type="github">
   <diagram name="Page-1" id="kuUTJhznfEHe3Q5honYC">
     <mxGraphModel dx="1795" dy="1732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -688,40 +688,40 @@
           <mxGeometry x="680" y="1210" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yy6P3BpDbYn-zYg0EiTs-21" value="招生人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Yy6P3BpDbYn-zYg0EiTs-2">
-          <mxGeometry x="660" y="1100" width="30" height="60" as="geometry" />
+          <mxGeometry x="720" y="1100" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yy6P3BpDbYn-zYg0EiTs-23" value="培训人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Yy6P3BpDbYn-zYg0EiTs-2">
-          <mxGeometry x="710" y="1100" width="30" height="60" as="geometry" />
+          <mxGeometry x="800" y="1100" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yy6P3BpDbYn-zYg0EiTs-24" value="客服&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Yy6P3BpDbYn-zYg0EiTs-2">
-          <mxGeometry x="760" y="1100" width="30" height="60" as="geometry" />
+          <mxGeometry x="900" y="1100" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yy6P3BpDbYn-zYg0EiTs-26" value="财务" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Yy6P3BpDbYn-zYg0EiTs-2">
-          <mxGeometry x="606" y="1100" width="30" height="60" as="geometry" />
+          <mxGeometry x="646" y="1109" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yy6P3BpDbYn-zYg0EiTs-27" value="运营" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Yy6P3BpDbYn-zYg0EiTs-2">
-          <mxGeometry x="550" y="1100" width="30" height="60" as="geometry" />
+          <mxGeometry x="470" y="1109" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yy6P3BpDbYn-zYg0EiTs-33" value="超级管理员&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Yy6P3BpDbYn-zYg0EiTs-2">
-          <mxGeometry x="700" y="1010" width="30" height="60" as="geometry" />
+          <mxGeometry x="650" y="1010" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yy6P3BpDbYn-zYg0EiTs-36" value="主管" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Yy6P3BpDbYn-zYg0EiTs-2">
-          <mxGeometry x="610" y="1010" width="30" height="60" as="geometry" />
+          <mxGeometry x="500" y="1010" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yy6P3BpDbYn-zYg0EiTs-39" value="王牌阿姨" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Yy6P3BpDbYn-zYg0EiTs-2">
           <mxGeometry x="610" y="1300" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yy6P3BpDbYn-zYg0EiTs-41" value="高级阿姨" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Yy6P3BpDbYn-zYg0EiTs-2">
-          <mxGeometry x="670" y="1300" width="30" height="60" as="geometry" />
+          <mxGeometry x="710" y="1300" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Yy6P3BpDbYn-zYg0EiTs-42" value="王牌阿姨" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Yy6P3BpDbYn-zYg0EiTs-2">
-          <mxGeometry x="840" y="1300" width="30" height="60" as="geometry" />
+        <mxCell id="Yy6P3BpDbYn-zYg0EiTs-42" value="金牌阿姨" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Yy6P3BpDbYn-zYg0EiTs-2">
+          <mxGeometry x="660" y="1300" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yy6P3BpDbYn-zYg0EiTs-43" value="中级阿姨" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Yy6P3BpDbYn-zYg0EiTs-2">
-          <mxGeometry x="720" y="1300" width="30" height="60" as="geometry" />
+          <mxGeometry x="760" y="1300" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yy6P3BpDbYn-zYg0EiTs-44" value="兼职阿姨&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Yy6P3BpDbYn-zYg0EiTs-2">
-          <mxGeometry x="780" y="1300" width="30" height="60" as="geometry" />
+          <mxGeometry x="810" y="1300" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
