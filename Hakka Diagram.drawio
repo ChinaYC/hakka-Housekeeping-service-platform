@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T09:11:08.337Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="js9YMCPOu6KDkUcmhWiX" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-01T00:32:50.470Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Q6xefb_6S2nsa0jkvTPa" version="21.3.5" type="github">
   <diagram name="Page-1" id="kuUTJhznfEHe3Q5honYC">
     <mxGraphModel dx="2556" dy="2175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -158,7 +158,7 @@
           <mxGeometry x="-550" y="460" width="566.75" height="537" as="geometry" />
         </mxCell>
         <mxCell id="5et0_8yqEDU4hoJO8OPt-9" value="" style="group" parent="5et0_8yqEDU4hoJO8OPt-68" connectable="0" vertex="1">
-          <mxGeometry x="210" y="140" width="1420" height="340" as="geometry" />
+          <mxGeometry x="220" y="140" width="1420" height="340" as="geometry" />
         </mxCell>
         <mxCell id="5et0_8yqEDU4hoJO8OPt-10" value="1. 角色表格：包括平台中不同角色&lt;br&gt;的信息，例如角色名称、角色描述等。&lt;br&gt;&amp;nbsp;2. 权限表格：包括平台中不同角色&lt;br&gt;的权限信息，例如菜单权限、操作&lt;br&gt;权限等。&lt;br&gt;&amp;nbsp;3. 门店表格：包括门店的详细信息，&lt;br&gt;例如门店名称、门店地址、&lt;br&gt;联系电话等。" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1aa1e2;opacity=50;" parent="5et0_8yqEDU4hoJO8OPt-9" vertex="1">
           <mxGeometry width="262.8930817610063" height="260" as="geometry" />
