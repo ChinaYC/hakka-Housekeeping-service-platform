@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T08:48:04.384Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="pwLHvflMcsLWGhsRm-39" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T08:22:53.252Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="71d9-AxgiH4GwzvG618N" version="21.3.7" type="github">
   <diagram name="Page-1" id="kuUTJhznfEHe3Q5honYC">
-    <mxGraphModel dx="2037" dy="1816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="1824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="5et0_8yqEDU4hoJO8OPt-68" value="添加信息流程图" parent="0" />
@@ -169,11 +169,11 @@
         <mxCell id="5et0_8yqEDU4hoJO8OPt-12" value="数据字典表：记录系统中使用的各种字典，&lt;br&gt;如服务人员等级、服务类型等信息。" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1aa1e2;opacity=50;" parent="5et0_8yqEDU4hoJO8OPt-9" vertex="1">
           <mxGeometry x="670.0045911949685" width="274.84276729559747" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="RoLfHGSgRacZs7P57VVQ-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;spacingLeft=0;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;container=0;" parent="5et0_8yqEDU4hoJO8OPt-9" vertex="1">
-          <mxGeometry x="-300" y="-1080" width="1730" height="1400" as="geometry" />
-        </mxCell>
         <mxCell id="Yy6P3BpDbYn-zYg0EiTs-11" value="服务人员" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontSize=17;arcSize=18;" parent="5et0_8yqEDU4hoJO8OPt-9" vertex="1">
           <mxGeometry x="1140" y="-920" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RoLfHGSgRacZs7P57VVQ-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;spacingLeft=0;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;container=0;" parent="5et0_8yqEDU4hoJO8OPt-68" vertex="1">
+          <mxGeometry x="-120" y="-980" width="1730" height="1400" as="geometry" />
         </mxCell>
         <mxCell id="5et0_8yqEDU4hoJO8OPt-149" value="注册流程图" parent="0" />
         <mxCell id="5et0_8yqEDU4hoJO8OPt-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#647687;strokeColor=#314354;" parent="5et0_8yqEDU4hoJO8OPt-149" source="5et0_8yqEDU4hoJO8OPt-151" target="5et0_8yqEDU4hoJO8OPt-154" edge="1">
