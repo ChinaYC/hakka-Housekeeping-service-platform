@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T03:14:01.849Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="okJZDxDt6LfsI6HI7L6q" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-11T12:39:22.026Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="90J689Our9kWkRmN8YGZ" version="21.3.8" type="github">
   <diagram name="Page-1" id="kuUTJhznfEHe3Q5honYC">
-    <mxGraphModel dx="2556" dy="2182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="5et0_8yqEDU4hoJO8OPt-68" value="添加信息流程图" parent="0" />
@@ -173,9 +173,9 @@
           <mxGeometry x="1140" y="-920" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RoLfHGSgRacZs7P57VVQ-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;spacingLeft=0;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;container=0;" parent="5et0_8yqEDU4hoJO8OPt-68" vertex="1">
-          <mxGeometry x="-120" y="-980" width="1730" height="1400" as="geometry" />
+          <mxGeometry x="-120" y="-990" width="1730" height="1400" as="geometry" />
         </mxCell>
-        <mxCell id="WxAgyqZZlZ1YVVnYsTEl-5" value="访客" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontSize=17;arcSize=18;" vertex="1" parent="5et0_8yqEDU4hoJO8OPt-68">
+        <mxCell id="WxAgyqZZlZ1YVVnYsTEl-5" value="访客" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontSize=17;arcSize=18;" parent="5et0_8yqEDU4hoJO8OPt-68" vertex="1">
           <mxGeometry x="1410" y="1110" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5et0_8yqEDU4hoJO8OPt-149" value="注册流程图" parent="0" />
