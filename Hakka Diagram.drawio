@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-11T12:39:22.026Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="90J689Our9kWkRmN8YGZ" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-23T04:10:31.201Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="JnQoKMI_VE-EhxeNjfHh" version="21.5.0" type="github">
   <diagram name="Page-1" id="kuUTJhznfEHe3Q5honYC">
-    <mxGraphModel dx="2037" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5667" dy="3993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="5et0_8yqEDU4hoJO8OPt-68" value="添加信息流程图" parent="0" />
@@ -158,7 +158,7 @@
           <mxGeometry x="-550" y="460" width="566.75" height="537" as="geometry" />
         </mxCell>
         <mxCell id="5et0_8yqEDU4hoJO8OPt-9" value="" style="group" parent="5et0_8yqEDU4hoJO8OPt-68" connectable="0" vertex="1">
-          <mxGeometry x="170" y="120" width="1420" height="340" as="geometry" />
+          <mxGeometry x="190" y="120" width="1450" height="340" as="geometry" />
         </mxCell>
         <mxCell id="5et0_8yqEDU4hoJO8OPt-10" value="1. 角色表格：包括平台中不同角色&lt;br&gt;的信息，例如角色名称、角色描述等。&lt;br&gt;&amp;nbsp;2. 权限表格：包括平台中不同角色&lt;br&gt;的权限信息，例如菜单权限、操作&lt;br&gt;权限等。&lt;br&gt;&amp;nbsp;3. 门店表格：包括门店的详细信息，&lt;br&gt;例如门店名称、门店地址、&lt;br&gt;联系电话等。" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1aa1e2;opacity=50;" parent="5et0_8yqEDU4hoJO8OPt-9" vertex="1">
           <mxGeometry width="262.8930817610063" height="260" as="geometry" />
@@ -172,8 +172,8 @@
         <mxCell id="Yy6P3BpDbYn-zYg0EiTs-11" value="服务人员" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontSize=17;arcSize=18;" parent="5et0_8yqEDU4hoJO8OPt-9" vertex="1">
           <mxGeometry x="1140" y="-920" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RoLfHGSgRacZs7P57VVQ-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;spacingLeft=0;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;container=0;" parent="5et0_8yqEDU4hoJO8OPt-68" vertex="1">
-          <mxGeometry x="-120" y="-990" width="1730" height="1400" as="geometry" />
+        <mxCell id="RoLfHGSgRacZs7P57VVQ-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;spacingLeft=0;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;container=0;" parent="5et0_8yqEDU4hoJO8OPt-9" vertex="1">
+          <mxGeometry x="-280" y="-1130" width="1730" height="1400" as="geometry" />
         </mxCell>
         <mxCell id="WxAgyqZZlZ1YVVnYsTEl-5" value="访客" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontSize=17;arcSize=18;" parent="5et0_8yqEDU4hoJO8OPt-68" vertex="1">
           <mxGeometry x="1410" y="1110" width="110" height="50" as="geometry" />
